@@ -1,0 +1,60 @@
+*{
+    font-family: "Nunito", sans-serif;
+    
+}
+
+.container {
+border:3px solid black;
+padding: 10px;
+ margin-top: 15px;
+  background-color: #272594;
+    }
+.title-register {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 300;
+    top: -6px;
+    background-color: rgb(253, 253, 253);
+    padding: 0 3px;
+}  
+
+label{
+    display: block;
+    color: #E3D4CC;
+    font-size: 14px;
+}
+input{
+    margin-bottom: 14px;
+    border: 1.5px solid ;
+    color: black;
+}
+.checkbox-social {
+    display: inline;
+}
+button {
+    cursor: pointer;
+}
+
+.biografi-input{
+    display: block;
+}
+
+.button-clear:hover{
+  background-color: #D5DE6F;  
+  width: 70px;
+  height: 30px; 
+  color: brown;
+  border: 2px solid burlywood;
+}
+
+.button-submit:hover {
+    background-color: #D5DE6F;
+    width: 110px;
+    height: 30px;
+    color: brown;
+    border: 2px solid burlywood;
+}
+
+.biografia{
+    display: block;
+}
